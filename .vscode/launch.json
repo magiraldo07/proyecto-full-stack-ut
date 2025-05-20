@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProyectoFullstackBackendUtApplication<proyecto-fullstack-backend-ut>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.systempaymentut.proyecto_fullstack_backend_ut.ProyectoFullstackBackendUtApplication",
+            "projectName": "proyecto-fullstack-backend-ut",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
